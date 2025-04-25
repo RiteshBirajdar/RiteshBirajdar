@@ -1,70 +1,52 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Ritesh Birajdar</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
+# 👋 Hi there, I'm Ritesh! 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=DevOps+%F0%9F%9A%80+is+not+just+a+job%2C+it's+a+lifestyle!;CI%2FCD+Pipelines+are+my+playground.;Cloud.+Code.+Containers.+Automation.">
-</p>
+![DevOps Enthusiast](https://img.shields.io/badge/DevOps-Enthusiast-blue?style=for-the-badge&logo=devops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Fanboy-yellow?style=for-the-badge&logo=linux)
+![CI/CD](https://img.shields.io/badge/CI/CD-Lover-green?style=for-the-badge&logo=githubactions)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=DevOps+is+Life!;Automate+All+the+Things!;Linux+%26+Cloud+Fanatic" alt="Typing SVG" />
 
 ---
 
 ## 🔧 About Me
 
-- 👨‍💻 DevOps Engineer focused on building scalable and reliable infrastructure.
-- ☁️ Skilled in **AWS**, **Docker**, **Kubernetes**, **CI/CD**, **Monitoring**, and **Infrastructure as Code**.
-- 🧠 Obsessed with **automation**, **optimization**, and **clean deployments**.
-- 🛠️ Always tinkering with tools like **Terraform**, **Ansible**, and **GitHub Actions**.
-- 🌱 Currently learning advanced **Cloud Security** & **Platform Engineering** practices.
+- 🎓 I'm Ritesh Birajdar
+- 🛠️ Passionate about **DevOps**, **Automation**, and **Infrastructure as Code**
+- 🐧 I love working with **Linux**, **Docker**, **Kubernetes**, and **CI/CD pipelines**
+- 📚 Always learning and leveling up my cloud & scripting skills
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ritesh-birajdar-513b20233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-birajdar-513b20233/)
 
 ---
 
-## 🛠️ Tools, Platforms & Technologies
+## ⚙️ Tools & Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,git,github,bash,python,vscode,prometheus,grafana,jenkins" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshbirajdar&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshbirajdar&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshbirajdar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshbirajdar&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshbirajdar&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+> “I automate so I can be lazy, and being lazy makes me efficient.” 🧠💻
 
 ---
 
-## 📦 DevOps Philosophy
-
-> **"If it’s not automated, it’s not scalable."**  
-> I believe in building systems that are **repeatable**, **reliable**, and **resilient**.
-
----
-
-## ⚡ Fun Automation Trick
-
-```bash
-# A one-liner I live by:
-alias deploy="git add . && git commit -m '🚀 deploy' && git push"
-✨ Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshbirajdar&theme=tokyo-night&area=true" /> </p>
-📫 Let's Collaborate
-Have a DevOps challenge, open source idea, or cloud project in mind?
-Let's build something epic together! 🚀
-
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" /> </p> ```
+_Thanks for stopping by! 🚀_
